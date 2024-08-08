@@ -1,0 +1,91 @@
+|   |Categoria               |Crime                                                                                     | Freq|RelFreq |
+|:--|:-----------------------|:-----------------------------------------------------------------------------------------|----:|:-------|
+|1  |Criminalidade Económica |Abuso de confiança                                                                        |  189|0.0825  |
+|2  |Criminalidade Económica |Abuso de confiança contra a segurança social                                              |  335|0.1463  |
+|3  |Criminalidade Económica |Abuso de confiança fiscal                                                                 |  365|0.1594  |
+|4  |Criminalidade Económica |Acesso indevido ou ilegítimo/intercepção ilegítima                                        |    1|0.0004  |
+|5  |Criminalidade Económica |Branqueamento de vantagens de proveniência ilícita                                        |    6|0.0026  |
+|6  |Criminalidade Económica |Burla com fraude bancária                                                                 |   13|0.0057  |
+|7  |Criminalidade Económica |Burla informática e nas comunicações                                                      |   13|0.0057  |
+|8  |Criminalidade Económica |Burla tributária                                                                          |   12|0.0052  |
+|9  |Criminalidade Económica |Contrabando                                                                               |    3|0.0013  |
+|10 |Criminalidade Económica |Contrafacção/falsificação de moeda e passagem de moeda falsa                              |    1|0.0004  |
+|11 |Criminalidade Económica |Contrafacção/falsificação de título de crédito ou valores selados                         |    1|0.0004  |
+|12 |Criminalidade Económica |Corrupção                                                                                 |   76|0.0332  |
+|13 |Criminalidade Económica |Corrupção de substâncias alimentares ou medicinais                                        |    1|0.0004  |
+|14 |Criminalidade Económica |Crimes contra a propriedade industrial                                                    |   64|0.0279  |
+|15 |Criminalidade Económica |Crimes contra os direitos de autor                                                        |   41|0.0179  |
+|16 |Criminalidade Económica |Emissão de cheque sem provisão                                                            |   26|0.0114  |
+|17 |Criminalidade Económica |Especulação                                                                               |   49|0.0214  |
+|18 |Criminalidade Económica |Exploração ilícita de jogo                                                                |    1|0.0004  |
+|19 |Criminalidade Económica |Extorsão                                                                                  |    3|0.0013  |
+|20 |Criminalidade Económica |Falsidade de depoimento  declaração  testemunho  perícia  interpretação ou tradução       |    5|0.0022  |
+|21 |Criminalidade Económica |Falsidade informática                                                                     |   26|0.0114  |
+|22 |Criminalidade Económica |Falsificação de documentos cunhos marcas chancelas pesos e medidas                        |   86|0.0376  |
+|23 |Criminalidade Económica |Fraude contra a segurança social                                                          |   30|0.0131  |
+|24 |Criminalidade Económica |Fraude fiscal                                                                             |  224|0.0978  |
+|25 |Criminalidade Económica |Fraude fiscal aduaneira                                                                   |    6|0.0026  |
+|26 |Criminalidade Económica |Fraude obtenção de subsídios subvenções créditos e desvio na sua utilização               |   18|0.0079  |
+|27 |Criminalidade Económica |Frustração de créditos                                                                    |    5|0.0022  |
+|28 |Criminalidade Económica |Insolvência dolosa e negligente                                                           |   23|0.0100  |
+|29 |Criminalidade Económica |Outras burlas                                                                             |   81|0.0354  |
+|30 |Criminalidade Económica |Outros crimes cometidos no exercício de actividades comercial ou financeira               |    1|0.0004  |
+|31 |Criminalidade Económica |Outros crimes cometidos no exercício de funções públicas                                  |    2|0.0009  |
+|32 |Criminalidade Económica |Outros crimes contra a autoridade pública                                                 |    2|0.0009  |
+|33 |Criminalidade Económica |Outros crimes contra a economia/crimes contra a economia n.e.                             |   31|0.0135  |
+|34 |Criminalidade Económica |Outros crimes de falsificação                                                             |   16|0.0070  |
+|35 |Criminalidade Económica |Outros crimes informáticos/crimes informáticos n.e.                                       |    1|0.0004  |
+|36 |Criminalidade Económica |Outros crimes tributários comuns                                                          |    2|0.0009  |
+|37 |Criminalidade Económica |Peculato                                                                                  |   31|0.0135  |
+|38 |Criminalidade Económica |Prática ilícita de jogo/presença em local de jogo ilícito                                 |    1|0.0004  |
+|39 |Criminalidade Económica |Receptação e auxílio material                                                             |   12|0.0052  |
+|40 |Criminalidade Económica |Tráfico de influências                                                                    |    1|0.0004  |
+|41 |Outra Criminalidade     |Abuso de autoridade                                                                       |    2|0.0009  |
+|42 |Outra Criminalidade     |Ameaça e coacção                                                                          |   15|0.0066  |
+|43 |Outra Criminalidade     |Associação criminosa                                                                      |    7|0.0031  |
+|44 |Outra Criminalidade     |Associação de auxílio à imigração ilegal                                                  |    1|0.0004  |
+|45 |Outra Criminalidade     |Auxílio à imigração ilegal                                                                |    2|0.0009  |
+|46 |Outra Criminalidade     |Condução de veículo com taxa de álcool igual/superior a 1 2g/l                            |   44|0.0192  |
+|47 |Outra Criminalidade     |Condução perigosa de veículo rodoviário                                                   |    4|0.0017  |
+|48 |Outra Criminalidade     |Condução sem habilitação legal                                                            |   44|0.0192  |
+|49 |Outra Criminalidade     |Consumo/Cultivo para consumo de estupefacientes                                           |    3|0.0013  |
+|50 |Outra Criminalidade     |Crimes relativos à caça e pesca                                                           |    1|0.0004  |
+|51 |Outra Criminalidade     |Crimes relativos ao serviço militar                                                       |    1|0.0004  |
+|52 |Outra Criminalidade     |Dado omisso                                                                               |    9|0.0039  |
+|53 |Outra Criminalidade     |Deserção                                                                                  |    1|0.0004  |
+|54 |Outra Criminalidade     |Desobediência                                                                             |   42|0.0183  |
+|55 |Outra Criminalidade     |Detenção ou tráfico de armas proibidas                                                    |   20|0.0087  |
+|56 |Outra Criminalidade     |Devassa da vida privada e violação de segredo                                             |    1|0.0004  |
+|57 |Outra Criminalidade     |Difamação calúnia e injúria                                                               |   16|0.0070  |
+|58 |Outra Criminalidade     |Furto de veículo motorizado                                                               |    4|0.0017  |
+|59 |Outra Criminalidade     |Furto em edifício comercial ou industrial com arrombamento escalamento ou chaves falsas   |   14|0.0061  |
+|60 |Outra Criminalidade     |Furto em edifício comercial ou industrial sem arrombamento, escalamento ou chaves falsas. |    1|0.0004  |
+|61 |Outra Criminalidade     |Furto em outros edifícios com arrombamento escalamento ou chaves falsas                   |    8|0.0035  |
+|62 |Outra Criminalidade     |Furto em residência com arrombamento escalamento ou chaves falsas                         |   11|0.0048  |
+|63 |Outra Criminalidade     |Furto em supermercado                                                                     |    5|0.0022  |
+|64 |Outra Criminalidade     |Furto tráfico de obras de arte e outros bens culturais                                    |    2|0.0009  |
+|65 |Outra Criminalidade     |Lenocínio e pornografia de menores                                                        |    3|0.0013  |
+|66 |Outra Criminalidade     |Ofensa à integridade física voluntária grave                                              |    4|0.0017  |
+|67 |Outra Criminalidade     |Ofensa à integridade física voluntária simples                                            |   15|0.0066  |
+|68 |Outra Criminalidade     |Outro dano                                                                                |   10|0.0044  |
+|69 |Outra Criminalidade     |Outros crimes                                                                             |   66|0.0288  |
+|70 |Outra Criminalidade     |Outros crimes contra a liberdade pessoal                                                  |    1|0.0004  |
+|71 |Outra Criminalidade     |Outros crimes contra a propriedade                                                        |    2|0.0009  |
+|72 |Outra Criminalidade     |Outros crimes contra a reserva da vida privada                                            |    1|0.0004  |
+|73 |Outra Criminalidade     |Outros crimes contra a vida                                                               |    3|0.0013  |
+|74 |Outra Criminalidade     |Outros crimes contra o Estado                                                             |    1|0.0004  |
+|75 |Outra Criminalidade     |Outros crimes contra o património em geral                                                |    1|0.0004  |
+|76 |Outra Criminalidade     |Outros crimes de violência doméstica                                                      |    1|0.0004  |
+|77 |Outra Criminalidade     |Outros furtos                                                                             |   25|0.0109  |
+|78 |Outra Criminalidade     |Outros roubos                                                                             |   12|0.0052  |
+|79 |Outra Criminalidade     |Rapto sequestro e tomada de reféns                                                        |    6|0.0026  |
+|80 |Outra Criminalidade     |Resistência e coacção sobre funcionário                                                   |   10|0.0044  |
+|81 |Outra Criminalidade     |Roubo a outros edifícios comerciais ou industriais                                        |    2|0.0009  |
+|82 |Outra Criminalidade     |Roubo na via pública (excepto por esticão)                                                |    4|0.0017  |
+|83 |Outra Criminalidade     |Roubo por esticão                                                                         |    7|0.0031  |
+|84 |Outra Criminalidade     |Tráfico de estupefacientes (inclui precursores)                                           |   20|0.0087  |
+|85 |Outra Criminalidade     |Usurpação de funções                                                                      |    2|0.0009  |
+|86 |Outra Criminalidade     |Violação da obrigação de alimentos                                                        |    1|0.0004  |
+|87 |Outra Criminalidade     |Violação de domicílio e introdução em lugar vedado ao público                             |    2|0.0009  |
+|88 |Outra Criminalidade     |Violação de providências públicas                                                         |    3|0.0013  |
+|89 |Outra Criminalidade     |Violência doméstica contra cônjuge ou análogos                                            |   26|0.0114  |
